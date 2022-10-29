@@ -7,7 +7,6 @@ function library:CreateMain()
     local section = Instance.new("ScrollingFrame")
     local section2 = Instance.new("ScrollingFrame")
     local TextLabel = Instance.new("TextLabel")
-    
 library.Name = "library"
 library.Parent = game:GetService("CoreGui")
 library.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
