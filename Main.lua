@@ -1,6 +1,3 @@
-local TextButton_2 = Instance.new("TextButton")
- 
- 
 local library = {}
  
 --Properties:
