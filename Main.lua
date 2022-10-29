@@ -59,6 +59,6 @@ section.Size = UDim2.new(0.430000007, 0, 0.850000024, 0)
         TextButton.TextSize = 20.000
         TextButton.TextWrapped = true
     end
-    return supernatural;
+    return supernatural
 end
-return library;
+return library
